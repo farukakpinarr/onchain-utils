@@ -12,3 +12,10 @@ Built for the Talus Labs / Onchain Legion ecosystem 🧠⚡
 - Solidity • JavaScript • Ethers/Viem • Hardhat
 
 > Contributions welcome. PR'larınızı bekliyorum.
+## Roadmap
+- [ ] Gas usage notes
+- [ ] Airdrop helper CLI
+- [ ] Tx labeling (success/fail)
+
+## Thanks
+Built while grinding @Talus_labs quests. PR'lar açık.
